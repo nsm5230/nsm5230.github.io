@@ -1,0 +1,38 @@
+{
+  "@context": "http://iiif.io/api/image/2/context.json",
+  "@id": "https://nsm5230.github.io/img/derivatives/iiif/images/Picture22",
+  "protocol": "http://iiif.io/api/image",
+  "width": 643,
+  "height": 974,
+  "sizes": [
+    {
+      "width": 643,
+      "height": 974
+    },
+    {
+      "width": 250,
+      "height": 379
+    }
+  ],
+  "profile": [
+    "http://iiif.io/api/image/2/level0.json",
+    {
+      "supports": [
+        "cors",
+        "sizeByWhListed",
+        "baseUriRedirect"
+      ]
+    }
+  ],
+  "tiles": [
+    {
+      "width": 512,
+      "scaleFactors": [
+        1,
+        2,
+        4,
+        8
+      ]
+    }
+  ]
+}

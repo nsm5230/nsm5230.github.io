@@ -1,0 +1,46 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://nsm5230.github.io/img/derivatives/iiif/Picture50/manifest.json",
+  "@type": "sc:Manifest",
+  "label": "Picture50",
+  "thumbnail": "https://nsm5230.github.io/img/derivatives/iiif/images/Picture50/full/250,/0/default.jpg",
+  "viewingDirection": "left-to-right",
+  "viewingHint": "individuals",
+  "sequences": [
+    {
+      "@id": "https://nsm5230.github.io/img/derivatives/iiif/sequence/Picture50.json",
+      "@type": "sc:Sequence",
+      "canvases": [
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://nsm5230.github.io/img/derivatives/iiif/canvas/Picture50.json",
+          "label": "front",
+          "width": 3998,
+          "height": 1262,
+          "thumbnail": "https://nsm5230.github.io/img/derivatives/iiif/images/Picture50/full/250,/0/default.jpg",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "https://nsm5230.github.io/img/derivatives/iiif/annotation/Picture50.json",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://nsm5230.github.io/img/derivatives/iiif/images/Picture50/full/full/0/default.jpg",
+                "@type": "dcterms:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://nsm5230.github.io/img/derivatives/iiif/images/Picture50",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                },
+                "width": 1999,
+                "height": 631
+              },
+              "on": "https://nsm5230.github.io/img/derivatives/iiif/canvas/Picture50.json"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "full": "https://nsm5230.github.io/img/derivatives/iiif/images/Picture50/full/full/0/default.jpg"
+}

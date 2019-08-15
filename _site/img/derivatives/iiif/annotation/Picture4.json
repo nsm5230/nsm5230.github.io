@@ -1,0 +1,19 @@
+{
+  "@type": "oa:Annotation",
+  "@id": "https://nsm5230.github.io/img/derivatives/iiif/annotation/Picture4.json",
+  "motivation": "sc:painting",
+  "resource": {
+    "@id": "https://nsm5230.github.io/img/derivatives/iiif/images/Picture4/full/full/0/default.jpg",
+    "@type": "dcterms:Image",
+    "format": "image/jpeg",
+    "service": {
+      "@context": "http://iiif.io/api/image/2/context.json",
+      "@id": "https://nsm5230.github.io/img/derivatives/iiif/images/Picture4",
+      "profile": "http://iiif.io/api/image/2/level0.json"
+    },
+    "width": 1100,
+    "height": 622
+  },
+  "on": "https://nsm5230.github.io/img/derivatives/iiif/canvas/Picture4.json",
+  "@context": "http://iiif.io/api/presentation/2/context.json"
+}

@@ -5,4 +5,4 @@ permalink: /collection/
 ---
 
 
-{% include collection_gallery.html collection='finalexam' facet_by='material' %}
+//{% include collection_gallery.html collection='finalexam' facet_by='material' %}

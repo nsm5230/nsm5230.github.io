@@ -18,8 +18,8 @@
 # Feel free to change these! For more info, refer to:
 # ~> https://jekyllrb.com/docs/configuration/options/
 
-title:            'Final Exam'
-description:      'ARTH 100 Final Exam Review'
+title:            'ARTH 100'
+description:      'ARTH 100 Final Exam '
 url:              'https://nsm5230.github.io'
 baseurl:          ''
 

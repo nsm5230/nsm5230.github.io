@@ -1,6 +1,6 @@
 ---
 layout: page
-show_title: false
+show_title: true
 
 ---
 

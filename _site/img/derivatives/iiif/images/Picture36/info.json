@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/image/2/context.json",
-  "@id": "https://nsm5230.github.io/img/derivatives/iiif/images/Picture36",
+  "@id": "http://localhost:4000/img/derivatives/iiif/images/Picture36",
   "protocol": "http://iiif.io/api/image",
   "width": 981,
   "height": 970,

@@ -3,16 +3,11 @@ layout: page
 show_title: true
 
 ---
+### Nick McLean
 
+  * [Resume](https://nsm5230.github.io/resume/)
+  * [Background](https://nsm5230.github.io/bio/)
+  * [Portfolio](https://nsm5230.github.io/portfolio/)
+  * [Albums](https://nsm5230.github.io/albums/)
+    * [Personal](https://nsm5230.github.io/albums/personal/)
 
-ART HISTORY 100 FINAL EXAM
-
-### Browse the Collection
-
-
-By Material- [Material](http://localhost:4000/collection/)
-
-By Artist- [Artist](http://localhost:4000/search/)
-
-By Period-
-{% include collection_gallery.html facet_by='period' collection='finalexam' %}

@@ -18,8 +18,8 @@
 # Feel free to change these! For more info, refer to:
 # ~> https://jekyllrb.com/docs/configuration/options/
 
-title:            'ARTH 100'
-description:      'ARTH 100 Final Exam '
+title:            'Nicolas S McLean'
+description:      'Personal Website of Nick'
 url:              'https://nsm5230.github.io'
 baseurl:          ''
 
@@ -114,12 +114,17 @@ menu:
         link: '/exhibits/a/'
       - label: 'Inline Image References'
         link: '/exhibits/b/'
-  - label: 'Browse by Material'
-    link: '/collection/'
-  - label: 'Browse by Artist'
-    link: '/search/'
-  - label: 'Reuse'
-    link: '/reuse/'
+  - label: 'Resume'
+    link: '/resume/'
+  - label: 'Bio'
+    link: '/bio/'
+  - label: 'Porfolio'
+    link: '/portfolio/'
+  - label: 'Albums'
+    link: '/albums/'
+    sub:
+      - label: "Personal"
+        link: 'albums/personal'
 
 # --------------------------------------------------------------
 # SITE FOOTER SETTINGS

@@ -1,6 +1,6 @@
 ---
 layout: page
-show_title: true
+show_title: false
 
 ---
 ### Nick McLean

@@ -1,7 +1,7 @@
 ---
 layout: page
 show_title: false
-
+permalink: https://nsm5230.github.io/
 ---
 ### Nick McLean
 

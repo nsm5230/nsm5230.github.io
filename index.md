@@ -1,7 +1,6 @@
 ---
 layout: page
 show_title: false
-permalink: https://nsm5230.github.io/
 ---
 ### Nick McLean
 
@@ -11,4 +10,4 @@ permalink: https://nsm5230.github.io/
   * [Albums](https://nsm5230.github.io/albums/)
     * [Personal](https://nsm5230.github.io/albums/personal/)
 
-[comment]: # 
+[comment]: # permalink: https://nsm5230.github.io/2019/

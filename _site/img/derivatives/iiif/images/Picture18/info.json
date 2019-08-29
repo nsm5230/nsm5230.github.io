@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/image/2/context.json",
-  "@id": "http://localhost:4000/img/derivatives/iiif/images/Picture18",
+  "@id": "http://localhost:4000/home/img/derivatives/iiif/images/Picture18",
   "protocol": "http://iiif.io/api/image",
   "width": 2316,
   "height": 625,

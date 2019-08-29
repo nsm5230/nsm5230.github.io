@@ -6,20 +6,20 @@
     Nicolas S McLean | Isis
   </title>
 
-  <link rel='canonical' href='http://localhost:4000/finalexam/picture27/'/>
-  <link rel='icon' type='image/png' href="http://localhost:4000/img/logo.png">
-  <link rel='stylesheet' href="http://localhost:4000/assets/styles.css"/>
+  <link rel='canonical' href='http://localhost:4000/home/finalexam/picture27/'/>
+  <link rel='icon' type='image/png' href="http://localhost:4000/home/img/logo.png">
+  <link rel='stylesheet' href="http://localhost:4000/home/assets/styles.css"/>
 
-  <script type='text/javascript' src="http://localhost:4000/assets/jquery-3.2.1.min.js"></script>
+  <script type='text/javascript' src="http://localhost:4000/home/assets/jquery-3.2.1.min.js"></script>
   <noscript>Please enable JavaScript in your browser.</noscript>
 </head>
 
 
   <body>
-    <time datetime='2019-08-28 20:50'></time>
+    <time datetime='2019-08-29 08:35'></time>
     <nav id='wax-header' class='navbar navbar-expand-lg navbar-light'>
  <div class='wax-inline-container'>
-    <a class='navbar-brand' href="http://localhost:4000/" title='Home'>
+    <a class='navbar-brand' href="http://localhost:4000/home/" title='Home'>
       Nicolas S McLean
     </a>
 
@@ -37,9 +37,9 @@
               </a>
               <div class='dropdown-menu' aria-labelledby='wax-Exhibits-dropdown'>
                 
-                  <a class='dropdown-item' href='http://localhost:4000/exhibits/a/'>Inline Parallax Image</a>
+                  <a class='dropdown-item' href='http://localhost:4000/home/exhibits/a/'>Inline Parallax Image</a>
                 
-                  <a class='dropdown-item' href='http://localhost:4000/exhibits/b/'>Inline Image References</a>
+                  <a class='dropdown-item' href='http://localhost:4000/home/exhibits/b/'>Inline Image References</a>
                 
               </div>
             </li>
@@ -47,19 +47,19 @@
         
           
             <li class='nav-item'>
-              <a class='nav-link' href='http://localhost:4000/resume/'>Resume</a>
+              <a class='nav-link' href='http://localhost:4000/home/resume/'>Resume</a>
             </li>
           
         
           
             <li class='nav-item'>
-              <a class='nav-link' href='http://localhost:4000/bio/'>Bio</a>
+              <a class='nav-link' href='http://localhost:4000/home/bio/'>Bio</a>
             </li>
           
         
           
             <li class='nav-item'>
-              <a class='nav-link' href='http://localhost:4000/portfolio/'>Porfolio</a>
+              <a class='nav-link' href='http://localhost:4000/home/portfolio/'>Porfolio</a>
             </li>
           
         
@@ -70,7 +70,7 @@
               </a>
               <div class='dropdown-menu' aria-labelledby='wax-Albums-dropdown'>
                 
-                  <a class='dropdown-item' href='http://localhost:4000/albums/personal'>Personal</a>
+                  <a class='dropdown-item' href='http://localhost:4000/home/albums/personal'>Personal</a>
                 
               </div>
             </li>
@@ -97,11 +97,11 @@
     <span class='pagination-link' id='prevlink'></span>
     
       <div id="osd" class="image-viewer"></div>
-<script async defer src="http://localhost:4000/assets/openseadragon/openseadragon.min.js"></script>
+<script async defer src="http://localhost:4000/home/assets/openseadragon/openseadragon.min.js"></script>
 
 <script>
   $(document).ready(function () {
-    var manifestUrl = "http://localhost:4000/img/derivatives/iiif/Picture27/manifest.json";
+    var manifestUrl = "http://localhost:4000/home/img/derivatives/iiif/Picture27/manifest.json";
     $.getJSON(manifestUrl, function(data) {
       var tileSources = [];
       $.each(data.sequences[0].canvases, function(k, val) {
@@ -110,7 +110,7 @@
       OpenSeadragon({
         id: "osd",
         sequenceMode: true,
-        prefixUrl: "http://localhost:4000/assets/openseadragon/images/",
+        prefixUrl: "http://localhost:4000/home/assets/openseadragon/images/",
         tileSources: tileSources,
         homeFillsViewer: false,
         showReferenceStrip: true
@@ -127,8 +127,8 @@
 
 
   <script type='text/javascript'>
-    $('#prevlink').append(`<a href='http://localhost:4000/finalexam/picture26/' display='none'>&#8249;</a>`);
-    $('#nextlink').append(`<a href='http://localhost:4000/finalexam/picture28/' display='none'>&#8250;</a>`);
+    $('#prevlink').append(`<a href='http://localhost:4000/home/finalexam/picture26/' display='none'>&#8249;</a>`);
+    $('#nextlink').append(`<a href='http://localhost:4000/home/finalexam/picture28/' display='none'>&#8250;</a>`);
   </script>
 
 
@@ -174,7 +174,7 @@
 
     
       <dt>Source</dt>
-      <dd><a href="http://localhost:4000/raw_images/finalexam" target="_blank" rel="noreferrer">
+      <dd><a href="http://localhost:4000/home/raw_images/finalexam" target="_blank" rel="noreferrer">
             localhost:4000
           </a></dd>
   
@@ -182,7 +182,7 @@
 
     
       <dt>IIIF Manifest</dt>
-      <dd><a href="http://localhost:4000/img/derivatives/iiif/Picture27/manifest.json" target="_blank" rel="noreferrer">http://localhost:4000/img/derivatives/iiif/Picture27/manifest.json</a></dd>
+      <dd><a href="http://localhost:4000/home/img/derivatives/iiif/Picture27/manifest.json" target="_blank" rel="noreferrer">http://localhost:4000/home/img/derivatives/iiif/Picture27/manifest.json</a></dd>
   
 </dl>
 
@@ -211,7 +211,7 @@
             </a>
            / 
           
-            <a href='http://localhost:4000/credits'>
+            <a href='http://localhost:4000/home/credits'>
               Credits
             </a>
            / 
@@ -225,8 +225,8 @@
         <p class='footer-logos'>
           
           
-          <a href="http://localhost:4000/" aria-label="Logo link to resource">
-            <img src='http://localhost:4000/img/logo.png' alt="logo"/>
+          <a href="http://localhost:4000/home/" aria-label="Logo link to resource">
+            <img src='http://localhost:4000/home/img/logo.png' alt="logo"/>
           </a>
           
         </p>
@@ -237,6 +237,6 @@
 
   </body>
 
-  <script type='text/javascript' async defer src='http://localhost:4000/assets/bootstrap/bootstrap.min.js'></script>
-  <script type='text/javascript' async defer src='http://localhost:4000/assets/popper.min.js'></script>
+  <script type='text/javascript' async defer src='http://localhost:4000/home/assets/bootstrap/bootstrap.min.js'></script>
+  <script type='text/javascript' async defer src='http://localhost:4000/home/assets/popper.min.js'></script>
 </html>

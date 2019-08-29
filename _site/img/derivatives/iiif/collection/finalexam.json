@@ -1,276 +1,276 @@
 {
   "@context": "http://iiif.io/api/presentation/2/context.json",
-  "@id": "http://localhost:4000/img/derivatives/iiif/collection/finalexam.json",
+  "@id": "http://localhost:4000/home/img/derivatives/iiif/collection/finalexam.json",
   "@type": "sc:Collection",
   "label": "finalexam",
   "manifests": [
     {
-      "@id": "http://localhost:4000/img/derivatives/iiif/Picture12/manifest.json",
+      "@id": "http://localhost:4000/home/img/derivatives/iiif/Picture12/manifest.json",
       "@type": "sc:Manifest",
       "label": "Picture12"
     },
     {
-      "@id": "http://localhost:4000/img/derivatives/iiif/Picture8/manifest.json",
+      "@id": "http://localhost:4000/home/img/derivatives/iiif/Picture8/manifest.json",
       "@type": "sc:Manifest",
       "label": "Picture8"
     },
     {
-      "@id": "http://localhost:4000/img/derivatives/iiif/Picture9/manifest.json",
+      "@id": "http://localhost:4000/home/img/derivatives/iiif/Picture9/manifest.json",
       "@type": "sc:Manifest",
       "label": "Picture9"
     },
     {
-      "@id": "http://localhost:4000/img/derivatives/iiif/Picture13/manifest.json",
+      "@id": "http://localhost:4000/home/img/derivatives/iiif/Picture13/manifest.json",
       "@type": "sc:Manifest",
       "label": "Picture13"
     },
     {
-      "@id": "http://localhost:4000/img/derivatives/iiif/Picture39/manifest.json",
+      "@id": "http://localhost:4000/home/img/derivatives/iiif/Picture39/manifest.json",
       "@type": "sc:Manifest",
       "label": "Picture39"
     },
     {
-      "@id": "http://localhost:4000/img/derivatives/iiif/Picture11/manifest.json",
+      "@id": "http://localhost:4000/home/img/derivatives/iiif/Picture11/manifest.json",
       "@type": "sc:Manifest",
       "label": "Picture11"
     },
     {
-      "@id": "http://localhost:4000/img/derivatives/iiif/Picture10/manifest.json",
+      "@id": "http://localhost:4000/home/img/derivatives/iiif/Picture10/manifest.json",
       "@type": "sc:Manifest",
       "label": "Picture10"
     },
     {
-      "@id": "http://localhost:4000/img/derivatives/iiif/Picture38/manifest.json",
+      "@id": "http://localhost:4000/home/img/derivatives/iiif/Picture38/manifest.json",
       "@type": "sc:Manifest",
       "label": "Picture38"
     },
     {
-      "@id": "http://localhost:4000/img/derivatives/iiif/Picture14/manifest.json",
+      "@id": "http://localhost:4000/home/img/derivatives/iiif/Picture14/manifest.json",
       "@type": "sc:Manifest",
       "label": "Picture14"
     },
     {
-      "@id": "http://localhost:4000/img/derivatives/iiif/Picture28/manifest.json",
+      "@id": "http://localhost:4000/home/img/derivatives/iiif/Picture28/manifest.json",
       "@type": "sc:Manifest",
       "label": "Picture28"
     },
     {
-      "@id": "http://localhost:4000/img/derivatives/iiif/Picture29/manifest.json",
+      "@id": "http://localhost:4000/home/img/derivatives/iiif/Picture29/manifest.json",
       "@type": "sc:Manifest",
       "label": "Picture29"
     },
     {
-      "@id": "http://localhost:4000/img/derivatives/iiif/Picture15/manifest.json",
+      "@id": "http://localhost:4000/home/img/derivatives/iiif/Picture15/manifest.json",
       "@type": "sc:Manifest",
       "label": "Picture15"
     },
     {
-      "@id": "http://localhost:4000/img/derivatives/iiif/Picture17/manifest.json",
+      "@id": "http://localhost:4000/home/img/derivatives/iiif/Picture17/manifest.json",
       "@type": "sc:Manifest",
       "label": "Picture17"
     },
     {
-      "@id": "http://localhost:4000/img/derivatives/iiif/Picture16/manifest.json",
+      "@id": "http://localhost:4000/home/img/derivatives/iiif/Picture16/manifest.json",
       "@type": "sc:Manifest",
       "label": "Picture16"
     },
     {
-      "@id": "http://localhost:4000/img/derivatives/iiif/Picture48/manifest.json",
+      "@id": "http://localhost:4000/home/img/derivatives/iiif/Picture48/manifest.json",
       "@type": "sc:Manifest",
       "label": "Picture48"
     },
     {
-      "@id": "http://localhost:4000/img/derivatives/iiif/Picture49/manifest.json",
+      "@id": "http://localhost:4000/home/img/derivatives/iiif/Picture49/manifest.json",
       "@type": "sc:Manifest",
       "label": "Picture49"
     },
     {
-      "@id": "http://localhost:4000/img/derivatives/iiif/Picture44/manifest.json",
+      "@id": "http://localhost:4000/home/img/derivatives/iiif/Picture44/manifest.json",
       "@type": "sc:Manifest",
       "label": "Picture44"
     },
     {
-      "@id": "http://localhost:4000/img/derivatives/iiif/Picture50/manifest.json",
+      "@id": "http://localhost:4000/home/img/derivatives/iiif/Picture50/manifest.json",
       "@type": "sc:Manifest",
       "label": "Picture50"
     },
     {
-      "@id": "http://localhost:4000/img/derivatives/iiif/Picture51/manifest.json",
+      "@id": "http://localhost:4000/home/img/derivatives/iiif/Picture51/manifest.json",
       "@type": "sc:Manifest",
       "label": "Picture51"
     },
     {
-      "@id": "http://localhost:4000/img/derivatives/iiif/Picture45/manifest.json",
+      "@id": "http://localhost:4000/home/img/derivatives/iiif/Picture45/manifest.json",
       "@type": "sc:Manifest",
       "label": "Picture45"
     },
     {
-      "@id": "http://localhost:4000/img/derivatives/iiif/Picture53/manifest.json",
+      "@id": "http://localhost:4000/home/img/derivatives/iiif/Picture53/manifest.json",
       "@type": "sc:Manifest",
       "label": "Picture53"
     },
     {
-      "@id": "http://localhost:4000/img/derivatives/iiif/Picture47/manifest.json",
+      "@id": "http://localhost:4000/home/img/derivatives/iiif/Picture47/manifest.json",
       "@type": "sc:Manifest",
       "label": "Picture47"
     },
     {
-      "@id": "http://localhost:4000/img/derivatives/iiif/Picture46/manifest.json",
+      "@id": "http://localhost:4000/home/img/derivatives/iiif/Picture46/manifest.json",
       "@type": "sc:Manifest",
       "label": "Picture46"
     },
     {
-      "@id": "http://localhost:4000/img/derivatives/iiif/Picture52/manifest.json",
+      "@id": "http://localhost:4000/home/img/derivatives/iiif/Picture52/manifest.json",
       "@type": "sc:Manifest",
       "label": "Picture52"
     },
     {
-      "@id": "http://localhost:4000/img/derivatives/iiif/Picture42/manifest.json",
+      "@id": "http://localhost:4000/home/img/derivatives/iiif/Picture42/manifest.json",
       "@type": "sc:Manifest",
       "label": "Picture42"
     },
     {
-      "@id": "http://localhost:4000/img/derivatives/iiif/Picture43/manifest.json",
+      "@id": "http://localhost:4000/home/img/derivatives/iiif/Picture43/manifest.json",
       "@type": "sc:Manifest",
       "label": "Picture43"
     },
     {
-      "@id": "http://localhost:4000/img/derivatives/iiif/Picture41/manifest.json",
+      "@id": "http://localhost:4000/home/img/derivatives/iiif/Picture41/manifest.json",
       "@type": "sc:Manifest",
       "label": "Picture41"
     },
     {
-      "@id": "http://localhost:4000/img/derivatives/iiif/Picture54/manifest.json",
+      "@id": "http://localhost:4000/home/img/derivatives/iiif/Picture54/manifest.json",
       "@type": "sc:Manifest",
       "label": "Picture54"
     },
     {
-      "@id": "http://localhost:4000/img/derivatives/iiif/Picture40/manifest.json",
+      "@id": "http://localhost:4000/home/img/derivatives/iiif/Picture40/manifest.json",
       "@type": "sc:Manifest",
       "label": "Picture40"
     },
     {
-      "@id": "http://localhost:4000/img/derivatives/iiif/Picture27/manifest.json",
+      "@id": "http://localhost:4000/home/img/derivatives/iiif/Picture27/manifest.json",
       "@type": "sc:Manifest",
       "label": "Picture27"
     },
     {
-      "@id": "http://localhost:4000/img/derivatives/iiif/Picture33/manifest.json",
+      "@id": "http://localhost:4000/home/img/derivatives/iiif/Picture33/manifest.json",
       "@type": "sc:Manifest",
       "label": "Picture33"
     },
     {
-      "@id": "http://localhost:4000/img/derivatives/iiif/Picture1/manifest.json",
+      "@id": "http://localhost:4000/home/img/derivatives/iiif/Picture1/manifest.json",
       "@type": "sc:Manifest",
       "label": "Picture1"
     },
     {
-      "@id": "http://localhost:4000/img/derivatives/iiif/Picture32/manifest.json",
+      "@id": "http://localhost:4000/home/img/derivatives/iiif/Picture32/manifest.json",
       "@type": "sc:Manifest",
       "label": "Picture32"
     },
     {
-      "@id": "http://localhost:4000/img/derivatives/iiif/Picture26/manifest.json",
+      "@id": "http://localhost:4000/home/img/derivatives/iiif/Picture26/manifest.json",
       "@type": "sc:Manifest",
       "label": "Picture26"
     },
     {
-      "@id": "http://localhost:4000/img/derivatives/iiif/Picture18/manifest.json",
+      "@id": "http://localhost:4000/home/img/derivatives/iiif/Picture18/manifest.json",
       "@type": "sc:Manifest",
       "label": "Picture18"
     },
     {
-      "@id": "http://localhost:4000/img/derivatives/iiif/Picture30/manifest.json",
+      "@id": "http://localhost:4000/home/img/derivatives/iiif/Picture30/manifest.json",
       "@type": "sc:Manifest",
       "label": "Picture30"
     },
     {
-      "@id": "http://localhost:4000/img/derivatives/iiif/Picture24/manifest.json",
+      "@id": "http://localhost:4000/home/img/derivatives/iiif/Picture24/manifest.json",
       "@type": "sc:Manifest",
       "label": "Picture24"
     },
     {
-      "@id": "http://localhost:4000/img/derivatives/iiif/Picture2/manifest.json",
+      "@id": "http://localhost:4000/home/img/derivatives/iiif/Picture2/manifest.json",
       "@type": "sc:Manifest",
       "label": "Picture2"
     },
     {
-      "@id": "http://localhost:4000/img/derivatives/iiif/Picture3/manifest.json",
+      "@id": "http://localhost:4000/home/img/derivatives/iiif/Picture3/manifest.json",
       "@type": "sc:Manifest",
       "label": "Picture3"
     },
     {
-      "@id": "http://localhost:4000/img/derivatives/iiif/Picture25/manifest.json",
+      "@id": "http://localhost:4000/home/img/derivatives/iiif/Picture25/manifest.json",
       "@type": "sc:Manifest",
       "label": "Picture25"
     },
     {
-      "@id": "http://localhost:4000/img/derivatives/iiif/Picture31/manifest.json",
+      "@id": "http://localhost:4000/home/img/derivatives/iiif/Picture31/manifest.json",
       "@type": "sc:Manifest",
       "label": "Picture31"
     },
     {
-      "@id": "http://localhost:4000/img/derivatives/iiif/Picture19/manifest.json",
+      "@id": "http://localhost:4000/home/img/derivatives/iiif/Picture19/manifest.json",
       "@type": "sc:Manifest",
       "label": "Picture19"
     },
     {
-      "@id": "http://localhost:4000/img/derivatives/iiif/Picture35/manifest.json",
+      "@id": "http://localhost:4000/home/img/derivatives/iiif/Picture35/manifest.json",
       "@type": "sc:Manifest",
       "label": "Picture35"
     },
     {
-      "@id": "http://localhost:4000/img/derivatives/iiif/Picture21/manifest.json",
+      "@id": "http://localhost:4000/home/img/derivatives/iiif/Picture21/manifest.json",
       "@type": "sc:Manifest",
       "label": "Picture21"
     },
     {
-      "@id": "http://localhost:4000/img/derivatives/iiif/Picture7/manifest.json",
+      "@id": "http://localhost:4000/home/img/derivatives/iiif/Picture7/manifest.json",
       "@type": "sc:Manifest",
       "label": "Picture7"
     },
     {
-      "@id": "http://localhost:4000/img/derivatives/iiif/Picture6/manifest.json",
+      "@id": "http://localhost:4000/home/img/derivatives/iiif/Picture6/manifest.json",
       "@type": "sc:Manifest",
       "label": "Picture6"
     },
     {
-      "@id": "http://localhost:4000/img/derivatives/iiif/Picture20/manifest.json",
+      "@id": "http://localhost:4000/home/img/derivatives/iiif/Picture20/manifest.json",
       "@type": "sc:Manifest",
       "label": "Picture20"
     },
     {
-      "@id": "http://localhost:4000/img/derivatives/iiif/Picture34/manifest.json",
+      "@id": "http://localhost:4000/home/img/derivatives/iiif/Picture34/manifest.json",
       "@type": "sc:Manifest",
       "label": "Picture34"
     },
     {
-      "@id": "http://localhost:4000/img/derivatives/iiif/Picture22/manifest.json",
+      "@id": "http://localhost:4000/home/img/derivatives/iiif/Picture22/manifest.json",
       "@type": "sc:Manifest",
       "label": "Picture22"
     },
     {
-      "@id": "http://localhost:4000/img/derivatives/iiif/Picture36/manifest.json",
+      "@id": "http://localhost:4000/home/img/derivatives/iiif/Picture36/manifest.json",
       "@type": "sc:Manifest",
       "label": "Picture36"
     },
     {
-      "@id": "http://localhost:4000/img/derivatives/iiif/Picture4/manifest.json",
+      "@id": "http://localhost:4000/home/img/derivatives/iiif/Picture4/manifest.json",
       "@type": "sc:Manifest",
       "label": "Picture4"
     },
     {
-      "@id": "http://localhost:4000/img/derivatives/iiif/Picture5/manifest.json",
+      "@id": "http://localhost:4000/home/img/derivatives/iiif/Picture5/manifest.json",
       "@type": "sc:Manifest",
       "label": "Picture5"
     },
     {
-      "@id": "http://localhost:4000/img/derivatives/iiif/Picture37/manifest.json",
+      "@id": "http://localhost:4000/home/img/derivatives/iiif/Picture37/manifest.json",
       "@type": "sc:Manifest",
       "label": "Picture37"
     },
     {
-      "@id": "http://localhost:4000/img/derivatives/iiif/Picture23/manifest.json",
+      "@id": "http://localhost:4000/home/img/derivatives/iiif/Picture23/manifest.json",
       "@type": "sc:Manifest",
       "label": "Picture23"
     }

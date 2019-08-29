@@ -8,6 +8,7 @@ show_title: false
   * [Resume](https://nsm5230.github.io/home/resume/)
   * [Background](https://nsm5230.github.io/home/bio/)
   * [Portfolio](https://nsm5230.github.io/home/portfolio/)
-  * [Albums](https://nsm5230.github.io/home/albums/)
+  * [Albums](./albums)
     * [Personal](https://nsm5230.github.io/home/albums/personal/)
 
+[comment]: # https://nsm5230.github.io/home/albums/

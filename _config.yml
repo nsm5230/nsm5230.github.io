@@ -21,7 +21,7 @@
 title:            'Nicolas S McLean'
 description:      'Personal Website of Nick'
 url:              'https://nsm5230.github.io'
-baseurl:          '/home'
+#baseurl:          
 
 
 # ---------------------------------------------------------------
@@ -110,7 +110,7 @@ menu:
     link: '/albums/'
     sub:
       - label: "Personal"
-        link: 'albums/personal'
+        link: 'albums/personal/'
 
 # --------------------------------------------------------------
 # SITE FOOTER SETTINGS
